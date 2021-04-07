@@ -12,7 +12,8 @@
 
 
 <main>
-dfghjk
+  <section>
+
 </main>
 
 
@@ -31,7 +32,7 @@ dfghjk
           " h   h   " auto
           " m   m   " auto
           " f   f   " auto
-          / 1fr 3fr ;
+          / 1fr ;
   }
 
 </style>

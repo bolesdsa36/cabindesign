@@ -1,4 +1,4 @@
-<section class="hero is-large is-primary is-full-width">
+<section class="hero is-link is-fullheight-with-navbar">
     <div class="hero-body">
       <p class="title">
         Year 10 Graphics Homework Tasks
