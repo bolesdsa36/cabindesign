@@ -46,6 +46,8 @@
             
         </div>
     </section>
+
+    <progress class="progress" value="15" max="100">15%</progress>
 </main>
 
 <Footer />
