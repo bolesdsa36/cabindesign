@@ -51,3 +51,10 @@
 </main>
 
 <Footer />
+<style>
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.25em;
+}
+
+</style>

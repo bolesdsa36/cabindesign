@@ -22,3 +22,10 @@
     </div>
   </div>
 </nav>
+
+<style>
+a{
+  font-family: 'Noto Sans HK', sans-serif;
+}
+
+</style>

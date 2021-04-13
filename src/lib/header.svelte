@@ -5,3 +5,11 @@
       </p>
     </div>
   </section>
+
+  <style>
+p{
+
+  font-family: 'Kiwi Maru', serif;
+}
+
+  </style>
