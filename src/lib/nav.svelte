@@ -12,7 +12,7 @@
       <a class="navbar-item" href=".">
         Home
       </a>
-        <a class="navbar-item" href="design-heritage">
+        <a class="navbar-item" href="Design-heritage">
           Design Heritage
         </a>
         

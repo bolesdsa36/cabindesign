@@ -12,7 +12,7 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-                <a href="design-heritage">
+                <a href="Design-heritage">
                     <img src="images/image12.jpg" alt="graphics-poster"/>
                 </a>
             </div>
@@ -56,5 +56,4 @@ p{
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 1.25em;
 }
-
 </style>
