@@ -19,14 +19,16 @@
 
             <div class="column">
                 <h1 class="has-text-weight-bold">1. Perspective</h1>
-                <p>
-                    Use the box examples on this sheet and create on your own
-                    page. Start by putting in a line for the horizon and the
-                    VP’s then the front side of each box. Then take the sides
-                    back to the vanishing points. If you get stuck draw the
-                    example. Place boxes in all different locations and make
-                    them different sizes.
-                </p>
+                <div class="content">
+                    <ul>
+                        <li>Mies Van der Rohe</li>
+                        <li>Zaha Hadid</li>
+                        <li>Frank Gehery</li>
+                        <li>Le Cobuisier</li>
+                        <li>Frank Lloyd Wright</li>
+                        <li>Daniel Libeskind</li>
+                    </ul>
+                    </div>
             </div>
         </div>
     </section>
@@ -52,7 +54,6 @@
             </div>
             <div class="column">
                 <p></p>
-                
             </div>
         </div>
     </section>
