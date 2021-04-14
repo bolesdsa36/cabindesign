@@ -97,6 +97,23 @@
             </div>
         </div>
     </section>
+
+    <section class="section">
+        <div class="columns">
+            <div class="column">
+                <h1 class="has-text-weight-bold">2. Perspective Bird Houses</h1>
+                <p>Draw the bird houses. Add shadows and textures</p>
+            </div>
+            <div class="column">
+                <a href="visual-communication">
+                    <img src="images/image8.jpg" alt="birds-house-poster" />
+                </a>
+            </div>
+        </div>
+    </section>
+
+
+
 </main>
 
 <Footer />
