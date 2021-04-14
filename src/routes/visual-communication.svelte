@@ -133,9 +133,8 @@
     </section>
     <section class="section">
         <div class="columns">
-            <div class="column">
-            </div>
-        
+            <div class="column" />
+
             <div class="column">
                 <img
                     src="images/image14.png"
@@ -143,9 +142,8 @@
                     alt="elevations"
                 />
             </div>
-        
+        </div>
     </section>
-
 </main>
 
 <Footer />
