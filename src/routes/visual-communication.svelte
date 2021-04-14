@@ -19,16 +19,14 @@
 
             <div class="column">
                 <h1 class="has-text-weight-bold">1. Perspective</h1>
-                <div class="content">
-                    <ul>
-                        <li>Mies Van der Rohe</li>
-                        <li>Zaha Hadid</li>
-                        <li>Frank Gehery</li>
-                        <li>Le Cobuisier</li>
-                        <li>Frank Lloyd Wright</li>
-                        <li>Daniel Libeskind</li>
-                    </ul>
-                    </div>
+                <p>
+                    Use the box examples on this sheet and create on your own
+                    page. Start by putting in a line for the horizon and the
+                    VP’s then the front side of each box. Then take the sides
+                    back to the vanishing points. If you get stuck draw the
+                    example. Place boxes in all different locations and make
+                    them different sizes.
+                </p>
             </div>
         </div>
     </section>
@@ -50,15 +48,26 @@
         <div class="columns">
             <div class="column">
                 <h1 class="has-text-weight-bold">3. Scale</h1>
-                <p>Draw the bird houses. Add shadows and textures</p>
+                <p>Explain or work out the following:</p>
+                <div class="content">
+                    <ol>
+                        <li>What does 1:2 mean?</li>
+                        <li>Using 1:1 what size would you draw 100mm at?</li>
+                        <li>Using 1:20 what size would you draw 100mm at? </li>
+                        <li>Using 1:50 what size would you draw 100mm at?</li>
+                        <li>How do you work out scale? Explain this</li>
+                        <li>What unit of measurement must all dimensions be in?</li>
+                    </ol>
+                </div>
+            
+            
+            
             </div>
             <div class="column">
-                <p></p>
+                
             </div>
         </div>
     </section>
-
-    
 </main>
 
 <Footer />
