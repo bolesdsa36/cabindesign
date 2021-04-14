@@ -12,9 +12,9 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-                <a href="Design-heritage">
+               
                     <img src="images/image10.jpg" alt="graphics-poster1" />
-                </a>
+                
             </div>
 
             <div class="column">
@@ -38,9 +38,9 @@
                 <p>Draw the bird houses. Add shadows and textures</p>
             </div>
             <div class="column">
-                <a href="visual-communication">
+                
                     <img src="images/image8.jpg" alt="birds-house-poster" />
-                </a>
+                
             </div>
         </div>
     </section>
@@ -69,9 +69,9 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-                <a href="Design-heritage">
+            
                     <img src="images/image9.jpg" alt="graphics-room" />
-                </a>
+                
             </div>
 
             <div class="column">
@@ -116,12 +116,15 @@
             </div>
         
             <div class="column">
-                <a href="visual-communication">
+                
                     <img src="images/image11.png" alt="birds-house-poster" />
-                </a>
+                
             </div>
         </div>
     </section>
+    
+    
+    <img src="images/image14.png" is-fullwidth alt="elevations">
 
 
 
