@@ -45,40 +45,7 @@
         </div>
     </section>
 
-    <section class="section">
-        <div class="columns">
-            <div class="column">
-                <a href="Design-heritage">
-                    <img src="images/image10.jpg" alt="graphics-poster1" />
-                </a>
-            </div>
-
-            <div class="column">
-                <h1 class="has-text-weight-bold">3. Scale</h1>
-                <p>
-                    Use the box examples on this sheet and create on your own
-                    page. Start by putting in a line for the horizon and the
-                    VP’s then the front side of each box. Then take the sides
-                    back to the vanishing points. If you get stuck draw the
-                    example. Place boxes in all different locations and make
-                    them different sizes.
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="columns">
-            <div class="column">
-                
-                <p></p>
-            </div>
-            <div class="column">
-                
-            
-            </div>
-        </div>
-    </section>
+    
 </main>
 
 <Footer />
