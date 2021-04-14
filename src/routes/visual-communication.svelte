@@ -1,12 +1,12 @@
 <script>
-    import Header from "$lib/Header.svelte";
+    import Header2 from "$lib/Header2.svelte";
     import Nav from "$lib/Nav.svelte";
     import Footer from "$lib/Footer.svelte";
 </script>
 
 <Nav />
 
-<Header />
+<Header2 />
 
 <main>
 
