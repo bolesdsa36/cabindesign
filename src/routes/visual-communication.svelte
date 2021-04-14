@@ -44,6 +44,18 @@
             </div>
         </div>
     </section>
+    <section class="section">
+        <div class="columns">
+            <div class="column">
+                <h1 class="has-text-weight-bold">3. Scale</h1>
+                <p>Draw the bird houses. Add shadows and textures</p>
+            </div>
+            <div class="column">
+                <p></p>
+                
+            </div>
+        </div>
+    </section>
 
     
 </main>
