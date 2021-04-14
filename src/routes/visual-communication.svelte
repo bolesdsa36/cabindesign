@@ -12,9 +12,7 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-               
-                    <img src="images/image10.jpg" alt="graphics-poster1" />
-                
+                <img src="images/image10.jpg" alt="graphics-poster1" />
             </div>
 
             <div class="column">
@@ -38,9 +36,7 @@
                 <p>Draw the bird houses. Add shadows and textures</p>
             </div>
             <div class="column">
-                
-                    <img src="images/image8.jpg" alt="birds-house-poster" />
-                
+                <img src="images/image8.jpg" alt="birds-house-poster" />
             </div>
         </div>
     </section>
@@ -69,9 +65,7 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-            
-                    <img src="images/image9.jpg" alt="graphics-room" />
-                
+                <img src="images/image9.jpg" alt="graphics-room" />
             </div>
 
             <div class="column">
@@ -101,33 +95,56 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-                <h1 class="has-text-weight-bold">5. Architectural Plans, & Elevations</h1>
-                <p>Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.</p>
-            
-            <div class="content">
-                <ol type="a">
-                    <li>You will be drawing at scale 1:50 for the elevations and floor plan.</li>
-                    <li>Add the wall thickness (walls are 100mm so will be drawn as 2mm thick )</li>
-                    <li>Use the diagrams below to work out the correct measurements at scale 1:50</li>
-                    <li>Once you have completed the plan view (floor plan) complete the 3 elevations and then move onto a perspective sketch.</li>
-                    
-                </ol>
+                <h1 class="has-text-weight-bold">
+                    5. Architectural Plans, & Elevations
+                </h1>
+                <p>
+                    Draw an accurate to scale 1x floor plan, 3 elevations and
+                    1xperspective of the cabin.
+                </p>
+
+                <div class="content">
+                    <ol type="a">
+                        <li>
+                            You will be drawing at scale 1:50 for the elevations
+                            and floor plan.
+                        </li>
+                        <li>
+                            Add the wall thickness (walls are 100mm so will be
+                            drawn as 2mm thick )
+                        </li>
+                        <li>
+                            Use the diagrams below to work out the correct
+                            measurements at scale 1:50
+                        </li>
+                        <li>
+                            Once you have completed the plan view (floor plan)
+                            complete the 3 elevations and then move onto a
+                            perspective sketch.
+                        </li>
+                    </ol>
+                </div>
             </div>
-            </div>
-        
+
             <div class="column">
-                
-                    <img src="images/image11.png" alt="birds-house-poster" />
-                
+                <img src="images/image11.png" alt="birds-house-poster" />
             </div>
         </div>
     </section>
-    
-    
-    <img src="images/image14.png" is-fullwidth alt="elevations">
-
-
-
+    <section class="section">
+        <div class="columns">
+            <div class="column">
+            </div>
+        
+            <div class="column">
+                <img
+                    src="images/image14.png"
+                    class="image14"
+                    alt="elevations"
+                />
+            </div>
+        
+    </section>
 </main>
 
 <Footer />
