@@ -18,7 +18,7 @@
             </div>
 
             <div class="column">
-                <h1>1. Perspective</h1>
+                <h1 class="has-text-weight-bold">1. Perspective</h1>
                 <p>
                     Use the box examples on this sheet and create on your own
                     page. Start by putting in a line for the horizon and the
@@ -34,12 +34,8 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-                <p>
-                    Click on the image to the right which will redirect you to
-                    the Visual Communications Page. You will need to complete
-                    all tasks to be able to advance to the next section. Please
-                    complete all tasks to a high standard.
-                </p>
+                <h1 class="has-text-weight-bold">1. Perspective</h1>
+                <p>Draw the bird houses. Add shadows and textures</p>
             </div>
             <div class="column">
                 <a href="visual-communication">
@@ -51,10 +47,9 @@
 </main>
 
 <Footer />
+
 <style>
-h1{
-font-size: 1.5em;
-
-}
-
+    h1 {
+        font-size: 1.5em;
+    }
 </style>
