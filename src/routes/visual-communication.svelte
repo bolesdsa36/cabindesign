@@ -50,7 +50,7 @@
                 <h1 class="has-text-weight-bold">3. Scale</h1>
                 <p>Explain or work out the following:</p>
                 <div class="content">
-                    <ol>
+                    <ol type="a">
                         <li>What does 1:2 mean?</li>
                         <li>Using 1:1 what size would you draw 100mm at?</li>
                         <li>Using 1:20 what size would you draw 100mm at? </li>
