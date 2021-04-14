@@ -103,7 +103,7 @@
             <div class="column">
                 <h1 class="has-text-weight-bold">5. Architectural Plans, & Elevations</h1>
                 <p>Draw an accurate to scale 1x floor plan, 3 elevations and 1xperspective of the cabin.</p>
-            </div>
+            
             <div class="content">
                 <ol type="a">
                     <li>You will be drawing at scale 1:50 for the elevations and floor plan.</li>
@@ -113,13 +113,11 @@
                     
                 </ol>
             </div>
-            
-            
-            
-            
+            </div>
+        
             <div class="column">
                 <a href="visual-communication">
-                    <img src="images/image8.jpg" alt="birds-house-poster" />
+                    <img src="images/image11.png" alt="birds-house-poster" />
                 </a>
             </div>
         </div>
