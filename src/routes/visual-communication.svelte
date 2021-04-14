@@ -34,7 +34,7 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-                <h1 class="has-text-weight-bold">1. Perspective</h1>
+                <h1 class="has-text-weight-bold">2. Perspective Bird Houses</h1>
                 <p>Draw the bird houses. Add shadows and textures</p>
             </div>
             <div class="column">
@@ -54,7 +54,7 @@
             </div>
 
             <div class="column">
-                <h1 class="has-text-weight-bold">1. Perspective</h1>
+                <h1 class="has-text-weight-bold">3. Scale</h1>
                 <p>
                     Use the box examples on this sheet and create on your own
                     page. Start by putting in a line for the horizon and the
@@ -70,13 +70,12 @@
     <section class="section">
         <div class="columns">
             <div class="column">
-                <h1 class="has-text-weight-bold">1. Perspective</h1>
-                <p>Draw the bird houses. Add shadows and textures</p>
+                
+                <p></p>
             </div>
             <div class="column">
-                <a href="visual-communication">
-                    <img src="images/image8.jpg" alt="birds-house-poster" />
-                </a>
+                
+            
             </div>
         </div>
     </section>
