@@ -53,7 +53,7 @@
 <Footer />
 <style>
 p{
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 1.25em;
+    font-family: 'Noto Sans HK', sans-serif;
+    font-size: 1em;
 }
 </style>
