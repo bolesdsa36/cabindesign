@@ -44,6 +44,7 @@
 </ul>
 </div>
 
+<img src="images/image4.jpg" alt="random-graphic-designers-clustered">
 
 
 
