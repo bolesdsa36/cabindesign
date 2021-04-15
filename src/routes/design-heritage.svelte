@@ -103,4 +103,7 @@
     div{
         font-family: "Noto Sans HK", sans-serif;
     }
+    h1{
+        font-size: 1.5em;
+    }
 </style>

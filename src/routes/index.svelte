@@ -18,6 +18,7 @@
             </div>
 
             <div class="column">
+                <h1 class="has-text-weight-bold">Design Heritage</h1>
                 <p>
                     Click on the image to the left which will redirect you to
                     the Design Heritage Page. You will need to complete all
@@ -31,6 +32,7 @@
     <section class="section">
         <div class="columns">
             <div class="column">
+                <h1 class="has-text-weight-bold">Visual Communication</h1>
                 <p>
                     Click on the image to the right which will redirect you to
                     the Visual Communications Page. You will need to complete
