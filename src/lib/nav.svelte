@@ -9,6 +9,7 @@
 
   <div id="navbarExampleTransparentExample" class="navbar-menu">
     <div class="navbar-start">
+      <img src="images/image15">
       <a class="navbar-item" href=".">
         Home
       </a>
