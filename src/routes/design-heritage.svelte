@@ -71,11 +71,15 @@
         padding-left: 1em;
         padding-top: 1em;
         padding-bottom: 1em;
+        font-family: "Noto Sans HK", sans-serif;
     }
     h3 {
         color: yellowgreen;
     }
     p {
         padding-bottom: 1em;
+    }
+    div{
+        font-family: "Noto Sans HK", sans-serif;
     }
 </style>

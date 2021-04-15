@@ -152,4 +152,7 @@
     h1 {
         font-size: 1.5em;
     }
+    div{
+        font-family: "Noto Sans HK", sans-serif;
+    }
 </style>
