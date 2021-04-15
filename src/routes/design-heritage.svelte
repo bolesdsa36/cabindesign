@@ -9,22 +9,31 @@
 <Header1 />
 
 <main>
-    <h2>SIZE: 1 x A3 Maximum</h2>
-
-    <p>
-        Pick one of the following Architects to create an A3 poster, read the
-        assessment criteria:
-    </p>
-    <div class="content">
-        <ul>
-            <li>Mies Van der Rohe</li>
-            <li>Zaha Hadid</li>
-            <li>Frank Gehery</li>
-            <li>Le Cobuisier</li>
-            <li>Frank Lloyd Wright</li>
-            <li>Daniel Libeskind</li>
-        </ul>
-    </div>
+    <section class="section">
+        <div class="columns">
+            <div class="column">
+                <h1 class="has-text-weight-bold">SIZE: 1 x A3 Maximum</h1>
+                <p>Pick one of the following Architects to create an A3 poster, read the
+                    assessment criteria:</p>
+            
+            <div class="content">
+                <ul>
+                    <li>Mies Van der Rohe</li>
+                    <li>Zaha Hadid</li>
+                    <li>Frank Gehery</li>
+                    <li>Le Cobuisier</li>
+                    <li>Frank Lloyd Wright</li>
+                    <li>Daniel Libeskind</li>
+                </ul>
+            </div>
+        </div>
+            <div class="column">
+                <img src="images/image4.jpg" alt="random-graphic-designers-clustered" />
+            </div>
+        </div>
+    </section>
+   
+    
     <h2>Creative Challenge...</h2>
     <p>
         Your presentation should reflect the style of the architect you have
@@ -58,7 +67,7 @@
         </ul>
     </div>
 
-    <img src="images/image4.jpg" alt="random-graphic-designers-clustered" />
+    
 </main>
 
 <Footer />
@@ -74,7 +83,7 @@
         font-family: "Noto Sans HK", sans-serif;
     }
     h3 {
-        color: yellowgreen;
+        color:#f7b1ab;
     }
     p {
         padding-bottom: 1em;
